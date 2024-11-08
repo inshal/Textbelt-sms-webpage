@@ -3,6 +3,9 @@
 <h1>Introduction</h1>
 <p>This project demonstrates how to send SMS messages using the TextBelt API. It consists of a simple web interface built with HTML and PHP, allowing users to input phone numbers, a message, and an optional sender ID. Upon submission, the application sends the SMS messages and displays the responses.</p>
 
+<img width="883" alt="Screenshot 2024-11-08 at 5 18 34 AM" src="https://github.com/user-attachments/assets/b8fa5535-cf25-44d3-91f9-f443847d215c">
+
+
 <h2>Setup Instructions</h2>
 
 <h3>Prerequisites</h3>
